@@ -9,6 +9,7 @@ edit_uri: https://github.com/ultralytics/ultralytics/tree/main/docs
 repo_name: ultralytics/ultralytics
 remote_name: https://github.com/ultralytics/docs
 
+
 theme:
   name: material
   custom_dir: docs/overrides
